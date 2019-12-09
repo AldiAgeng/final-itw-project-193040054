@@ -1,0 +1,29 @@
+/* NAVBAR */
+.navbar {
+    background-color: black;
+    text-transform: uppercase;
+}
+
+.nav-link {
+    margin-left: 25px;
+}
+
+/* JUMBROTON */
+.jumbotron {
+    background-color: black;
+
+}
+
+.image-jumbotron {
+    background-color: black;
+    margin-top: -100px;
+}
+
+.jumbotron .display-4 {
+    margin-top: 50px;
+}
+
+.btn {
+    border-radius: 30px;
+    padding: 15px;
+}
