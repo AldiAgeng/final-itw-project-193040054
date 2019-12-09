@@ -1,7 +1,23 @@
+body {
+    background-color: black;
+}
+
+/* Lainnya */
+.btn {
+    border-radius: 30px;
+    padding: 15px;
+}
+
 /* NAVBAR */
+/* Versi Desktop */
+@media (min-width: 992px) {
+    .navbar {
+        text-transform: uppercase;
+    }
+}
+
 .navbar {
     background-color: black;
-    text-transform: uppercase;
 }
 
 .nav-link {
@@ -11,19 +27,13 @@
 /* JUMBROTON */
 .jumbotron {
     background-color: black;
-
 }
 
 .image-jumbotron {
     background-color: black;
-    margin-top: -100px;
+    margin-top: 100px;
 }
 
-.jumbotron .display-4 {
-    margin-top: 50px;
-}
-
-.btn {
-    border-radius: 30px;
-    padding: 15px;
+.jumbotron .display-3 {
+    margin-top: 200px;
 }
