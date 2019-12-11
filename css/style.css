@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    height: 5000px;
 }
 
 /* Lainnya */
@@ -13,6 +14,11 @@ body {
 @media (min-width: 992px) {
     .navbar {
         text-transform: uppercase;
+    }
+
+    .image-jumbotron {
+        background-color: black;
+        margin-top: 100px;
     }
 }
 
@@ -31,9 +37,18 @@ body {
 
 .image-jumbotron {
     background-color: black;
-    margin-top: 100px;
 }
 
 .jumbotron .display-3 {
     margin-top: 200px;
+}
+
+
+/* MENU */
+.menu .display-4 {
+    margin-top: 150px;
+}
+
+.menu ul p {
+    font-size: 30px;
 }
