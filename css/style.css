@@ -2,6 +2,7 @@ body {
     background-color: black;
 }
 
+
 /* Lainnya */
 .btn {
     border-radius: 30px;
@@ -11,6 +12,10 @@ body {
 /* NAVBAR */
 /* Versi Desktop */
 @media (min-width: 992px) {
+    section {
+        min-height: 420px;
+    }
+
     .navbar {
         text-transform: uppercase;
     }
@@ -42,12 +47,17 @@ body {
     margin-top: 200px;
 }
 
-
-/* MENU */
-.menu .display-4 {
-    margin-top: 150px;
+/* ABOUT US */
+.about {
+    background-color: rgba(7, 7, 7, 0.685);
 }
 
+/* SERVICES */
+.services {
+    background-color: rgba(7, 7, 7, 0.685);
+}
+
+/* MENU */
 .menu ul p {
     font-size: 30px;
 }
@@ -56,7 +66,11 @@ body {
     background-color: black;
 }
 
-/* SERVICES */
-.services .display-4 {
-    margin-top: 150px;
+/* CONTACT */
+.contact .list-group-item {
+    background-color: transparent;
+}
+
+.contact {
+    background-color: rgba(7, 7, 7, 0.685);
 }
