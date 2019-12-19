@@ -30,7 +30,7 @@ body {
 
 /* NAVBAR */
 .navbar {
-    background-color: black;
+    background-color: rgb(7, 7, 7);
 }
 
 .nav-link {
@@ -46,18 +46,18 @@ body {
     background-color: black;
 }
 
-.jumbotron .display-3 {
+.jumbotron .display-4 {
     margin-top: 200px;
 }
 
 /* ABOUT US */
 .about {
-    background-color: rgba(7, 7, 7, 0.685);
+    /* background-color: rgba(7, 7, 7, 0.685); */
 }
 
 /* SERVICES */
 .services {
-    background-color: rgba(7, 7, 7, 0.685);
+    /* background-color: rgba(7, 7, 7, 0.685); */
 }
 
 /* MENU */
@@ -75,5 +75,10 @@ body {
 }
 
 .contact {
-    background-color: rgba(7, 7, 7, 0.685);
+    /* background-color: rgba(7, 7, 7, 0.685); */
+}
+
+/* FOOTER */
+footer {
+    background-color: rgb(7, 7, 7);
 }
