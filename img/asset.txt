@@ -1,0 +1,30 @@
+Image :
+- 1.png
+- 2.png
+- 3.png
+- 4.png
+- 5.png
+- 6.png
+- img-about.jpg
+Sumber : https://unsplash.com/
+
+Image :
+- email.png
+- fb.png
+- ig.png
+- img-Birthday.png
+- img-food.png
+- img-wedding.png
+- telepon.png
+- twitter.png
+- wa.png
+Sumber : https://icons8.com/
+
+Image :
+- img-jumbroton.png
+- logo.png
+Sumber : http://misterburger.co.id/
+
+Image :
+- spinner.gif
+Sumber : https://dribbble.com/
