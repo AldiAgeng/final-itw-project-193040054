@@ -34,6 +34,7 @@ body {
         min-height: 420px;
     }
 
+
     .navbar {
         text-transform: uppercase;
     }
@@ -75,6 +76,8 @@ body {
 .menu ul p {
     font-size: 30px;
 }
+
+
 
 .list-group .list-group-item {
     background-color: black;
